@@ -15,8 +15,6 @@ namespace CSharp_12._10._2022_new {
             catch (Exception e){ Console.WriteLine(e.ToString()); }
             BobTime.Print();
             
-
-
             Console.ReadKey();
         }
     }
